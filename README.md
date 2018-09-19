@@ -25,6 +25,5 @@
 or
 ##### b. CTRL + \ 
 
-
-
+---
 #### The script will then alert how many unique emails have been stored successfully.
