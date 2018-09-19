@@ -14,8 +14,8 @@ Create DB table with the db.sql file
 
 enable the embedded script and browse to a website 
 
-if the website contains any email addresses, you can now capture them in the database by
- a. clicking the GO button
- b. CTRL + \ 
+# if the website contains any email addresses, you can now capture them in the database by
+## a. clicking the GO button
+## b. CTRL + \ 
  
  The script will then alert how many unique emails have been stored successfully.
