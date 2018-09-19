@@ -12,10 +12,11 @@
 
 ### 5 Create DB table with the db.sql file.
 
-### 6 enable the embedded script and browse to a website.
+### 6 #### enable the embedded script and browse to a website.
 
-### if the website contains any email addresses, you can now capture them in the database by
+### If the website contains any email addresses, you can now capture them in the database by
 #### a. clicking the GO button
+or
 #### b. CTRL + \ 
 
 #### The script will then alert how many unique emails have been stored successfully.
